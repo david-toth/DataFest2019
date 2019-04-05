@@ -6,7 +6,12 @@ from imports import *
 data_dir = "./data/"
 
 # Data frames
-games = pd.read_csv("games.csv")
-gps = pd.read_csv("gps.csv")
-rpe = pd.read_csv("rpe.csv")
-wellness = pd.read_csv("wellness.csv")
+games = pd.read_csv(data_dir + "games.csv")
+gps = pd.read_csv(data_dir + "gps.csv")
+rpe = pd.read_csv(data_dir + "rpe.csv")
+wellness = pd.read_csv(data_dir + "wellness.csv")
+
+print(games.size)
+print(gps.size)
+print(rpe.size)
+print(wellness.size)
