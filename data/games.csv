@@ -1,0 +1,39 @@
+GameID,Date,Tournament,TournamentGame,Team,Opponent,Outcome,TeamPoints,TeamPointsAllowed
+1,11/30/2017,Dubai,1,Canada,Spain,W,19,0
+2,11/30/2017,Dubai,2,Canada,Ireland,W,31,0
+3,11/30/2017,Dubai,3,Canada,Fiji,W,31,14
+4,12/1/2017,Dubai,4,Canada,France,W,24,19
+5,12/1/2017,Dubai,5,Canada,Australia,L,7,25
+6,12/1/2017,Dubai,6,Canada,Russia,L,5,10
+7,1/26/2018,Sydney,1,Canada,Fiji,W,24,12
+8,1/26/2018,Sydney,2,Canada,Ireland,W,24,12
+9,1/26/2018,Sydney,3,Canada,Russia,W,19,5
+10,1/27/2018,Sydney,4,Canada,France,W,28,12
+11,1/27/2018,Sydney,5,Canada,New Zealand,L,0,26
+12,1/28/2018,Sydney,6,Canada,Russia,W,40,12
+13,4/13/2018,Commonwealth,1,Canada,South Africa,W,29,0
+14,4/13/2018,Commonwealth,2,Canada,Kenya,W,24,12
+15,4/14/2018,Commonwealth,3,Canada,New Zealand,L,7,24
+16,4/15/2018,Commonwealth,4,Canada,Australia,L,7,33
+17,4/15/2018,Commonwealth,5,Canada,England,L,19,24
+18,4/21/2018,Kitakyushu,1,Canada,Fiji,W,38,14
+19,4/21/2018,Kitakyushu,2,Canada,England,L,19,21
+20,4/21/2018,Kitakyushu,3,Canada,Russia,L,5,19
+21,4/22/2018,Kitakyushu,4,Canada,Ireland,L,19,24
+22,4/22/2018,Kitakyushu,5,Canada,Japan,W,33,14
+23,5/12/2018,Langford,1,Canada,Australia,L,7,22
+24,5/12/2018,Langford,2,Canada,Spain,W,24,10
+25,5/12/2018,Langford,3,Canada,Ireland,W,19,17
+26,5/13/2018,Langford,4,Canada,USA,L,26,28
+27,5/13/2018,Langford,5,Canada,England,W,35,12
+28,5/13/2018,Langford,6,Canada,Ireland,W,29,12
+29,6/8/2018,Paris,1,Canada,Russia,W,31,5
+30,6/8/2018,Paris,2,Canada,Fiji,W,21,12
+31,6/8/2018,Paris,3,Canada,Australia,L,14,31
+32,6/9/2018,Paris,4,Canada,USA,W,26,24
+33,6/9/2018,Paris,5,Canada,New Zealand,L,7,34
+34,6/10/2018,Paris,6,Canada,France,W,17,10
+35,7/20/2018,World Cup,1,Canada,Brazil,W,43,19
+36,7/20/2018,World Cup,2,Canada,France,L,19,24
+37,7/21/2018,World Cup,3,Canada,Spain,L,14,26
+38,7/21/2018,World Cup,4,Canada,Russia,W,22,10
